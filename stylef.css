@@ -407,7 +407,7 @@ img {
     text-align: center;
     z-index: 10; /* 画像の上にボタンを表示するためにz-indexを設定 */
     top: 10px;
-    right: 1060px;
+    right: 1000px;
 }
 
 .close-btn1 {
