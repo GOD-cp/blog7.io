@@ -156,6 +156,17 @@ article h2 {
     cursor: pointer;
     margin-top: 10px;
 }
+.button1 {
+    background-color: #000000;  
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    z-index: 100;
+    
+}
 
 
 .image-container {
